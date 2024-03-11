@@ -1,7 +1,7 @@
 # PSO Wallpapers
 Wallpapers based on the PSO hex shape.
 
-# Info
+# Important Info
 These wallpapers are free for personal use.
 This repo is their home, please don't host them on any other website.
 
